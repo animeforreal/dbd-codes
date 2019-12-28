@@ -1,4 +1,4 @@
-$nomention
+$nomentio
 $onlyIf[$mentioned[<]!=$authorID;Sorry i dont have enough courage to kick you :(]
 $argsCheck[>1;Please Mention the  member that you want to kick]
 $argsCheck[>2;Please Give Reason]
